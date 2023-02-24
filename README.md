@@ -22,8 +22,7 @@
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=barbolin-semyon&theme=dark)](https://git.io/streak-stats)
 
----
-
-<p align="center">
-<a href="https://circular-ocean-fd3.notion.site/android-developer-intern-junior-dd70d22fc480446ea7504d8e6807acf9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Resume" height="41" width="174"></a>
+<p>
+<a href="https://circular-ocean-fd3.notion.site/android-developer-intern-junior-dd70d22fc480446ea7504d8e6807acf9" target="_blank"><img src="https://user-images.githubusercontent.com/91881284/221184762-f05b4a71-cd44-49cd-ada9-b2a56260c994.png" alt="Resume" width="174"></a>
 </p>
+
